@@ -1,13 +1,37 @@
-- 👋 Hi, I’m @Selemani Bilimonga Christian (CSB)
-- 👀 I’m interested in everything that deals with innovation, sustainability, and solving present or anticipated problems using technology
+
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on a Student Boarding House project 
 - 📫 How to reach me simply dive in my profile
 - My hobbies: Reading books, Sports
 - 😄 Pronouns: He/Him
 
+Hey there👋, I’m Selemani Bilimonga Christian (CSB)!
+I am a Software Engineering student from Lusaka Zambia.
+👩 I am currently studying at Cavendish University Of Zambia, pursuing Bachelors of Sciencie in computing.
 
-<!---Hi, I'm CSB, an electrical engineer and a junior Developer passionate about . Solving RealWorld problems is what gives me happiness
-ChrisSelemani/ChrisSelemani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m mostly interested in:
+Artificial Intelligence
+Software Engineering
+Data Analysis
+Ethical Hacking
+👀 Overall I’m interested in everything that deals with innovations, sustainability, 
+and solving present or anticipated problems using different technologies.
+
+🌱 I’m currently learning:
+- Relational Database Management System (RDBMS)
+- SQL/MySQL database.
+- Java Script.
+
+💪I am proficient in:
+- Business and Communication Skills
+- Critical Thinking
+- C Programming
+- CSS
+- HTML
+- Social Media Management
+- Team Work
+
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
+😄 Pronouns: He/Him
+⚡ Fun fact: ...
