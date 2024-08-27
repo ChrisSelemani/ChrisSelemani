@@ -1,10 +1,3 @@
-
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on a Student Boarding House project 
-- 📫 How to reach me simply dive in my profile
-- My hobbies: Reading books, Sports
-- 😄 Pronouns: He/Him
-
 Hey there👋, I’m Selemani Bilimonga Christian (CSB)!
 I am a Software Engineering student from Lusaka Zambia.
 👩 I am currently studying at Cavendish University Of Zambia, pursuing Bachelors of Sciencie in computing.
