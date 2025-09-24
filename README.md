@@ -11,11 +11,14 @@ Ethical Hacking
 and solving present or anticipated problems using different technologies.
 
 🌱 I’m currently learning:
-- Relational Database Management System (RDBMS)
-- SQL/MySQL database.
 - Java Script.
+- PHP
+- typescript
+- vite
 
 💪I am proficient in:
+- Relational Database Management System (RDBMS)
+- SQL/MySQL database.
 - Business and Communication Skills
 - Critical Thinking
 - C Programming
