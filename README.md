@@ -1,6 +1,6 @@
 Hey there👋, I’m Selemani Bilimonga Christian (CSB)!
 I am a Software Engineering student from Lusaka Zambia.
-👩 I am currently studying at Cavendish University Of Zambia, pursuing Bachelors of Sciencie in computing.
+👩 I am currently studying at Cavendish University Of Zambia _in my final year, pursuing Bachelors of Sciencie in computing. 
 
 👀 I’m mostly interested in:
 Artificial Intelligence
@@ -15,6 +15,7 @@ and solving present or anticipated problems using different technologies.
 - PHP
 - typescript
 - vite
+- Node js
 
 💪I am proficient in:
 - Relational Database Management System (RDBMS)
